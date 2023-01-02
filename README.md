@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm a Blockchain Developer.
 - 🌱 I’m currently learning Solidity.
-- 👯 I’m looking to collaborate with Blockchain enthusiasts.
+- 👯‍♂️ I’m looking to collaborate with Blockchain enthusiasts.
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/mehmet-sorkulu-634b65163/
 
